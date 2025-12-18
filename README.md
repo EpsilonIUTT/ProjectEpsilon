@@ -16,7 +16,7 @@ This totals 646 pages and 128 reference papers (not correcting for overlaps)
 6. *Construction of Arithmetic Teichmuller Spaces I* [Paper](https://arxiv.org/abs/2106.11452) Kirti Joshi
 7. *Untilts of fundamental groups: construction of labeled isomorphs of fundamental groups -- Arithmetic Holomorphic Structures* [Paper](https://arxiv.org/abs/2210.11635) Kirti Joshi
 8. *Construction of Arithmetic Teichmuller spaces II: Proof of a local prototype of Mochizuki's Corollary 3.12* [Paper](https://arxiv.org/abs/2303.01662) Kirti Joshi
-    Construction of Arithmetic Teichmuller Spaces II and 1/2: Deformations of Number Fields [Paper](https://arxiv.org/abs/2305.10398) Kirti Joshi 
+9. *Construction of Arithmetic Teichmuller Spaces II and 1/2: Deformations of Number Fields* [Paper](https://arxiv.org/abs/2305.10398) Kirti Joshi 
 10. *Construction of Arithmetic Teichmuller Spaces III: A `Rosetta Stone' and a proof of Mochizuki's Corollary 3.12* [Paper](https://arxiv.org/abs/2401.13508) Kirti Joshi
 11. *Construction of Arithmetic Teichmuller Spaces IV: Proof of the abc-conjecture* [Paper](https://arxiv.org/abs/2403.10430) Kirti Joshi
 ### 2.4: Further Reading
