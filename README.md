@@ -1,6 +1,6 @@
 # Project Epsilon
 ## Section 1: About Project Epsilon
-Project Epsilon is a collaborative mathematical project that aims to systemically computer-verify parts of Inter-Universal Teichmuller Theory (IUTT). The immediate impact of this project is the verification of a controversial proof of the _abc_ conjecture.
+Project Epsilon is a collaborative effort to verify Mochizuki's Inter-Universal Teichmüller Theory (IUTT) via the use of computer-based proof assistants.
 
 ## Section 2: Relevant Readings
 See [all papers of Mochizuki](https://www.kurims.kyoto-u.ac.jp/~motizuki/papers-english.html).
